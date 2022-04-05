@@ -1,0 +1,3 @@
+#!/bin/bash
+tr abcdefghijklmnopqrstuvwxyz nopqrstuvwxyz | tr ABCDEFGHIJKLMNOPQRSTUVWXYZ NOPQRSTUVWXYZ
+
