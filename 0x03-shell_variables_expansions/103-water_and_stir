@@ -1,2 +1,2 @@
 #!/bin/bash
-echo b
+printf %on 0 | tr 01234567 bestchol
